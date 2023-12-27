@@ -5,7 +5,7 @@ Searches for music and plays a track through the Command Line
 Only works with ".mp3" ".flac" and ".wav"  !!!
 
 PREREQUISITES    
-You need to have Pyton 3.9.x installed. 
+You need to have Pyton 3.9.x installed.  
 You need to download the 64Bit-Version of the vlc-player --> https://www.videolan.org/vlc/  
 You also need to download the following python module:  
 python-vlc   
